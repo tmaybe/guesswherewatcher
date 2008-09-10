@@ -13,8 +13,8 @@
 
 defaults: &defaults
     adapter:  mysql
-    username: tma
-    password: 
+    username: XXX :NOTE: replace with database user name
+    password: XXX :NOTE: replace with database password
     host:     localhost
 
 development:
